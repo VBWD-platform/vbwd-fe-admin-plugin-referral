@@ -12,7 +12,7 @@ import en from './locales/en.json';
  */
 export const referralAdminPlugin: IPlugin = {
   name: 'referral-admin',
-  version: '26.6',
+  version: '26.6.1',
   description: 'VBWD referral program configuration + statistics — promotions admin',
 
   install(sdk: IPlatformSDK) {
